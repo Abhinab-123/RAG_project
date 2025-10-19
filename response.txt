@@ -1,0 +1,11 @@
+Hi there! Welcome to our Sigma web development course.
+
+So, you're wondering where to start with HTML in our course? Well, let me tell you - we actually cover HTML towards the beginning of our course. In fact, we dive straight into learning 100% HTML from scratch.
+
+If I recall correctly, we have a video that covers installing VS Code and how websites work, which includes a section on the basic code of HTML. This video is actually the first one in our series (video number 1), and it starts at around 5 minutes and 6 seconds into the video (timestamp: 505.96).
+
+In this video, you'll get an overview of how VS Code works for web development and see some examples of basic HTML code. It's a great starting point to understand the fundamentals of HTML.
+
+If you're interested in learning more about HTML from the beginning, I'd recommend checking out video number 1. It's a solid foundation that will set you up for success with our course.
+
+Let me know if you have any other questions or need further clarification!
