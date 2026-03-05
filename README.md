@@ -116,16 +116,3 @@ The script retrieves top relevant chunks and generates an answer grounded in cou
 - `output.json` – sample single-file transcription output.
 
 ---
-
-## Notes and limitations
-
-- Current scripts assume local folders (`videos`, `audios`, `jsons`) already exist.
-- File name parsing in `process_video.py` expects a specific video naming pattern.
-- Transcription is currently configured with `language="hi"` and `task="translate"`; adjust for your content.
-- No API retry/error handling is implemented yet for Ollama endpoints.
-
----
-
-## Quick interview-friendly summary
-
-This repository is a lightweight educational RAG assistant: it indexes your video course transcripts and answers student questions by retrieving relevant timestamped sections, then generating grounded guidance with an LLM.
